@@ -1,0 +1,6 @@
+## Interface: 11200 
+## Title: |cff33ffccShagu|cffffffffCombat
+## Author: Eric (Shagu) Mauser, 2015
+## Notes: Notifies about your infight state via glowing screen edges
+## Version: 0.1 DEVEL
+ShaguCombat.lua
